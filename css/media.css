@@ -59,7 +59,10 @@
 		/* feature end */
 	/* contact start */
 	.social_icon ul li a i{
-		margin:0 5px;
+		  height: 38px;
+   		  font-size: 38px;
+    		  margin: 0 3px;
+   		  width: 50px;
 	}
 	/* footer start	 */
 	footer{
